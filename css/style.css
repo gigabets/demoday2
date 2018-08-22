@@ -23,8 +23,12 @@ body a,
 
 h1,
 h2,
-h3,
-h4,
+h3 {font-family: 'Audiowide';
+	
+
+
+}
+h4 
 h5,
 h6 {
 	margin: 0;
@@ -465,7 +469,7 @@ form.register-wthree .form-control {
 h4.sec-title {
 	margin: 1.2em 0;
 	text-transform: uppercase;
-	color: #ff5f09;
+	color: #f8f9fa;
 	font-size: 1.5em;
 }
 
